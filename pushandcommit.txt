@@ -1,0 +1,6 @@
+git add . -then hit enter
+git commit -m "text to describe what you did" -then hit enter
+git push origin master -then hit enter
+THEN COMPLETE HURRAH
+you should now see your files on github
+
