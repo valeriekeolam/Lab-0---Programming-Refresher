@@ -18,7 +18,7 @@ int main(int argc, char *argv[]){
                 for(i = 2; i <= argc; i++){
                         FILE *fp = fopen(argv[i-1],"r");
                         if(fp == NULL){
-                                puts("wcat: file not found");
+                                puts("wcat: cannot open file");
                                 exit(0);
                         } else {
                                 while(fgets(buffer, n, fp) != NULL)

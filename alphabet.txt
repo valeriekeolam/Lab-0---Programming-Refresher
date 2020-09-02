@@ -1,8 +1,4 @@
-abcd
-efg
-hijk
-lmnop
-qrs
-tuv
-wx
+abcd efg
+hijk lmnop
+qrs tuv wx
 yz
