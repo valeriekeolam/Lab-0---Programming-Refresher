@@ -4,3 +4,9 @@ git push origin master -then hit enter
 THEN COMPLETE HURRAH
 you should now see your files on github
 
+-----
+if after git commmit you have something that says "tell me who you are"
+git init
+git config user.name "valeriekeolam"
+git config user.email "valeriekeolam@gmail.com"
+THEN do the stuff above
